@@ -9,4 +9,5 @@ services:
     environment:
       - POSTGRES_DB=db
       - POSTGRES_USER=Yuliya0107
-      - POSTGRES_PASSWORD=Surgut12345
+      - POSTGRES_PASSWORD=Saratov12345
+
